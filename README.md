@@ -7,6 +7,7 @@
 | Notebook | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/IDM-VTON-jupyter/blob/main/IDM_VTON_jupyter.ipynb) | IDM_VTON_jupyter
+<a target="_blank" href="https://lightning.ai/camenduru/studios/idm-vton-jupyter"> <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open In Studio"/></a> | IDM_VTON_jupyter
 
 ### 🧬 Code
 https://github.com/yisol/IDM-VTON
