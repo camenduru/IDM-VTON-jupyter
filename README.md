@@ -18,7 +18,7 @@ https://arxiv.org/abs/2403.05139
 https://idm-vton.github.io/
 
 ### 🖼 Output
-
+![Screenshot 2024-04-23 235649](https://github.com/camenduru/IDM-VTON-jupyter/assets/54370274/b82787c7-8801-4c22-abfc-298679dfba5c)
 
 ### 🏢 Sponsor
 https://modelslab.com
